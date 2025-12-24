@@ -8,7 +8,6 @@
 
 **A Red-Teaming Case Study Demonstrating How Evolutionary Algorithms Discover Universal Bypasses Against Multi-LLM Defense Architectures**
 
-*Live Demo: [yourusername.github.io/llm-council-research](https://yourusername.github.io/llm-council-research)*
 
 ---
 
